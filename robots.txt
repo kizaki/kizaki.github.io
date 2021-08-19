@@ -1,0 +1,6 @@
+# 全てのクローラーを対象
+User-agent: *
+# [https://kizaki.github.io/papers/]以下を禁止
+Disallow: /papers/
+# [https://kizaki.github.io/panel/]以下を禁止
+Disallow: /panel/
